@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1788134254818,
+      "tag": "0000_easy_rawhide_kid",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788134389251,
+      "tag": "0001_broken_kronos",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1788181837752,
+      "tag": "0002_wet_frightful_four",
+      "breakpoints": true
+    }
+  ]
+}

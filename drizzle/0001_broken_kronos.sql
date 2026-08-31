@@ -1,0 +1,1 @@
+ALTER TABLE "feeds" ALTER COLUMN "last_fetched" SET DATA TYPE timestamp with time zone;
